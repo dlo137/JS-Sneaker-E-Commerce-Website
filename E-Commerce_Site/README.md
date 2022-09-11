@@ -1,3 +1,3 @@
 "# Sneaker-E-Commerce-Landing_page
 
-A nike website for sneakers
+A nike site for sneakers
